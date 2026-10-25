@@ -1,0 +1,12 @@
+{
+  "name": "aternos-afk-bot-template",
+  "version": "1.0.0",
+  "description": "A configurable Minecraft Java AFK bot template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.25.0"
+  }
+}

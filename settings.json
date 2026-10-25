@@ -1,0 +1,11 @@
+{
+  "host": "YOUR_SERVER_ADDRESS",
+  "port": 25565,
+  "username": "AFK_Bot",
+  "version": "1.21.11",
+  "reconnect": true,
+  "reconnectDelaySeconds": 20,
+  "antiAfk": true,
+  "chatMessages": [],
+  "chatIntervalSeconds": 120
+}
